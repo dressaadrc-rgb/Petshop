@@ -44,8 +44,6 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 * Versionamento de código com Git;
 * Publicação de projetos utilizando GitHub Pages.
 
-> ⚠️ Altere `./img/preview.png` caso a imagem ou a pasta tenham outro nome no seu projeto.
-
 ## 📁 Estrutura do projeto
 
 ```text
